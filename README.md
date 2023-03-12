@@ -1,16 +1,4 @@
-  <style>
-    body{
-        background-image:url(https://media.tenor.com/1zhBM28EdSYAAAAM/aesthetic.gif);
-        background-size: cover;
-        background-attachment: fixed;
-    }
-        .content{
-        background:
-        width: 200px;
-        padding: 200px;
-        margin: 200px auto;
-    }
-</style>
+<h4> ADD ME ON FACEBOOK <a href="carl.centino.7"> Carl Hackz </a> </h4>
 
 <img src="https://media.tenor.com/_Iw9VZrRHPEAAAAM/hacker-ascii.gif" width="375" height="400" alt="message">
 
