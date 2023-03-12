@@ -1,4 +1,4 @@
-<marquee> <h2 style="color: black;> ADD ME ON FACEBOOK  <h2 style="color: red;>"Carl Hackz"/></h2></marquee>
+<marquee><span> ADD ME ON FACEBOOK </span> </marquee>
 
 <img src="https://media.tenor.com/_Iw9VZrRHPEAAAAM/hacker-ascii.gif" width="375" height="400" alt="message">
 
