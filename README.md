@@ -1,4 +1,4 @@
-<h4> ADD ME ON FACEBOOK <a href="carl.centino.7"> Carl Hackz </a> </h4>
+<marquee> <h2 style="color: black;> ADD ME ON FACEBOOK → <h2 style="color: red;> "Carl Hackz" </h2> </marquee>
 
 <img src="https://media.tenor.com/_Iw9VZrRHPEAAAAM/hacker-ascii.gif" width="375" height="400" alt="message">
 
@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif" width="375" height="400" alt="message">
+
+<h3> FOLLOW THIS PAGE → <a href="https://www.facebook.com/profile.php?id=100072317565562"> Terminal Hackers PH </a> </h3>
